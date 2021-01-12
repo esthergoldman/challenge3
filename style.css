@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr  1fr;
+    grid-gap: 10px;
+}
+
+.box{
+    background-color: yellow;
+    border: black;
+
+}
+
+.b2  {
+    background-color: white;
+}
+
+.b11{
+    background-color: white;
+}
